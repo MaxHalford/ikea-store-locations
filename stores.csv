@@ -1,0 +1,168 @@
+country,name,address,latitude,longitude
+Australia,Springvale,"IKEA, 917, Princes Highway, Springvale, City of Greater Dandenong, Victoria, VICTORIA, Australia",-37.9265315,145.1439079
+Australia,Richmond,"IKEA, Vickers Drive, Richmond, City of Yarra, Victoria, 3121, Australia",-37.81229155,145.01114104467587
+Australia,Canberra,"IKEA, Majura Road, Canberra Airport, District of Majura, Australian Capital Territory, 2609, Australia",-35.294783100000004,149.18698860546888
+Australia,Tempe,"IKEA, M8 Motorway Tunnel, St Peters, Sydney, Inner West Council, New South Wales, 2044, Australia",-33.9226307,151.16548626991158
+Australia,Rhodes,"IKEA Pick Up, Rhodes, Sydney, City of Canada Bay Council, New South Wales, 2138, Australia",-33.8363348,151.0855452
+Australia,Marsden Park,"IKEA, Richmond Road cycleway, Marsden Park, Sydney, Blacktown City Council, New South Wales, 2765, Australia",-33.71926165,150.84258626979073
+Australia,Perth,"IKEA, Ellen Stirling Boulevard, Innaloo, Perth, Western Australia, 6134, Australia",-31.8967189,115.803864873899
+Australia,Adelaide,"IKEA, James Schofield Drive, Adelaide Airport, City of West Torrens, South Australia, 5950, Australia",-34.934244199999995,138.53837202624896
+Australia,Logan,"Ikea Warehouse, 3539-3565, Pacific Highway, Springwood, Logan City, Queensland, 4127, Australia",-27.6352951,153.13287806172013
+Australia,North Lakes,"IKEA, ramp, Halpine Lakes, North Lakes, Caboolture, Queensland, 4510, Australia",-27.2434268,153.0157729
+Canada,Calgary,"IKEA, 11 Street SE, Deerfoot Meadows, East Fairview Industrial, Calgary, Alberta, T2H 3B8, Canada",50.9809281,-114.04322433982959
+Canada,Edmonton,"IKEA, 1311, Gateway Boulevard NW, South Edmonton Common, Edmonton, Alberta, T6N 1M3, Canada",53.443752849999996,-113.4892936465147
+Canada,Coquitlam,"IKEA Coquitlam, 1000, Lougheed Highway, Maillardville, Coquitlam, Metro Vancouver Regional District, British Columbia, V3K 3T5, Canada",49.234506249999995,-122.86668133480941
+Canada,Richmond,"Ikea Richmond, 3320, Jacombs Road, Crestwood, East Cambie, Richmond, Metro Vancouver Regional District, British Columbia, Canada",49.189441099999996,-123.07909620132642
+Canada,Winnipeg,"Ikea, Kenaston Boulevard, Tuxedo Industrial, Winnipeg, Winnipeg (city), Manitoba, R3P 2N3, Canada",49.839118049999996,-97.21173044827097
+Canada,Halifax,"Ikea, 645, Cutler Avenue, Dartmouth Crossing, Burnside, Dartmouth, Halifax Regional Municipality, Nova Scotia, B3B 0M2, Canada",44.7130266,-63.5576319
+Canada,Burlington,"IKEA, 1065, Plains Road East, La Salle, Nelson, Burlington, Halton Region, Golden Horseshoe, Ontario, L7T 4K1, Canada",43.3280846,-79.8291401980623
+Canada,Etobicoke,"IKEA, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, Canada",43.6180653,-79.53432002516018
+Canada,North York,"IKEA, Don Valley North, North York, Toronto, Golden Horseshoe, Ontario, M2K 2X9, Canada",43.7675968,-79.3683443493534
+Canada,Ottawa,"IKEA, 2685, Iris Street, Parkway Park, College, (Old) Ottawa, Ottawa, Eastern Ontario, Ontario, K2C 1E6, Canada",45.350489499999995,-75.78386927406417
+Canada,Vaughan,"IKEA, Exchange Way, Vaughan Metropolitan Centre, Concord, Vaughan, York Region, Golden Horseshoe, Ontario, L4K 5R6, Canada",43.7872732,-79.52931452204723
+Canada,Boucherville,"IKEA, Autoroute Jean-Lesage, Boucherville, Longueuil (agglomeration), Montérégie, Québec, J4B 7L4, Canada",45.57267965,-73.40123750227377
+Canada,Montreal,"IKEA, 9191, Boulevard Cavendish, Bois-Francs, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (06), Québec, H4T 1M8, Canada",45.49193375,-73.69104531233207
+Canada,Québec,"IKEA, 3400, Avenue Blaise-Pascal, Cap-Rouge, Sainte-Foy–Sillery–Cap-Rouge, Québec, Québec (Agglomération), Capitale-Nationale, Québec, G1X 0E4, Canada",46.776493599999995,-71.34816815323755
+Denmark,Aalborg,"IKEA, Krebsen, City Syd, Skalborg, Aalborg, Aalborg Kommune, Region Nordjylland, 9200, Danmark",56.9959774,9.864966027653285
+Denmark,Aarhus,"IKEA, Graham Bells Vej, Christiansbjerg, Aarhus, Aarhus Kommune, Region Midtjylland, 8200, Danmark",56.202866,10.181239729483778
+Denmark,Odense,"IKEA, Stærmosegårdsvej, Herluf Trolle Parken, Cortex Park, Odense, Odense Kommune, Region Syddanmark, 5230, Danmark",55.38055935,10.429776474393261
+Denmark,Gentofte,"IKEA, Lyngbyvej, Vangede, Jægersborg, Gentofte Kommune, Region Hovedstaden, 2820, Danmark",55.7532973,12.520465253599939
+Denmark,Taastrup,"Ikea Taastrup, Mårkærvej, Høje Taastrup, Taastrup, Høje-Taastrup Kommune, Region Hovedstaden, 2630, Danmark",55.659357400000005,12.2865437
+France,Avignon,"IKEA, Chemin Archicotes, ZA Les Saffranières, Vedène, Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84270, France",43.97828055,4.891090036200591
+France,Bayonne,"IKEA, 1, Avenue du Portou, Centre européen de Fret, Saint-Pierre-d'Irube, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64496, France",43.4791424,-1.444587771283255
+France,Bordeaux,"IKEA, Rocade, Bordeaux Maritime, Bordeaux, Nouvelle-Aquitaine, France métropolitaine, 33300, France",44.885044750000006,-0.565738009175414
+France,Brest - Guipavas,"IKEA, Boulevard François Mitterrand, Keradrien, Guipavas, Brest, Finistère, Bretagne, France métropolitaine, 29490, France",48.41765805,-4.441792774888863
+France,Caen Fleury-sur-Orne,"IKEA, Périphérique Sud, ZAC Les Hauts de l'Orne, Fleury-sur-Orne, Caen, Calvados, Normandie, France métropolitaine, 14123, France",49.1457645,-0.36398673091696665
+France,Clermont-Ferrand,"IKEA, Les Gravanches, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63100, France",45.8034774,3.139962377484895
+France,Dijon,"IKEA, B, Zone d'Activités Économiques Cap Nord, Les Grésilles, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21000, France",47.3406614,5.0643506728660155
+France,Grenoble,"IKEA Restaurant, Rocade Sud, La Galochère, Saint-Martin-d'Hères, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38400, France",45.1806335,5.7758517
+France,Hénin-Beaumont,"Ikea, Rue Adrien Thorez, Hénin-Beaumont, Lens, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62110, France",50.392098,2.9773879809738992
+France,Lille,"IKEA, 130, Rue du Grand But, Zone du Grand But, Lomme, Lille, Nord, Hauts-de-France, France métropolitaine, 59160, France",50.649606399999996,2.9771856520401734
+France,Lyon - Grand Parilly,"IKEA Lyon Grand Parilly, Rue Simone Veil, Grand Parilly, Vénissieux, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69200, France",45.71889945,4.881548431336694
+France,Marseille - La Valentine,"IKEA, Route de la Sablière, La Valentine, 11e Arrondissement, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13011, France",43.29318635,5.481127033537103
+France,Vitrolles,"IKEA, Route de la Seds, La Tuilière, Vitrolles, Istres, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13127, France",43.4292603,5.2677633
+France,Metz,"IKEA, Rue du Trou aux Serpents, La Maxe, Metz, Moselle, Grand Est, France métropolitaine, 57140, France",49.14999425,6.188020000387743
+France,Montpellier,"IKEA, Boulevard Pénélope, Port Marianne, Montpellier, Hérault, Occitanie, France métropolitaine, 34000, France",43.60416745,3.9239949502206475
+France,Mulhouse,"IKEA, Place du Renne, Morschwiller-le-Bas, Mulhouse, Haut-Rhin, Grand Est, France métropolitaine, 68790, France",47.7323321,7.282903253468318
+France,Nantes,"IKEA, Rue James Cook, Preux, La Botardière, Saint-Herblain, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44800, France",47.2215344,-1.6310529
+France,Orléans - Ardon,"IKEA, D 2020, Le Petit Cabaret, Saint-Cyr-en-Val, Orléans, Loiret, Centre-Val de Loire, France métropolitaine, 45160, France",47.8273233,1.918863504961939
+France,Plaisir,"IKEA, 202, Rue Henri Barbusse, Résidence Villiers, La Mare aux Saules, Plaisir, Versailles, Yvelines, Île-de-France, France métropolitaine, 78370, France",48.829376499999995,1.967870305463642
+France,Vélizy,"IKEA Vélizy, Rue du Petit Clamart, Meudon-la-Forêt, Meudon, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92360, France",48.7834994,2.22418939488
+France,Evry,"Ikea Evry, Rue du Clos aux Pois, Z.A Clos aux Pois, Lisses, Arrondissement d'Évry, Essonne, Île-de-France, France métropolitaine, 91090, France",48.596303500000005,2.4391948184878784
+France,Thiais,"IKEA, Chemin Herbu, Centre commercial Thiais Village, Thiais, Arrondissement de L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94320, France",48.75915965,2.3852859067324834
+France,Villiers-sur-Marne,"IKEA Villiers-sur-Marne, Boulevard Jean Monnet, Le Château, Bry-sur-Marne, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94360, France",48.828443050000004,2.5295595802703628
+France,Franconville,"Ikea, Rue du Général Leclerc, Bois de Saint-Marc, Franconville, Argenteuil, Val-d'Oise, Île-de-France, France métropolitaine, 95130, France",48.987683,2.2116882
+France,Gonesse,"IKEA, A 3, Moulin des Marais, Gonesse, Sarcelles, Val-d'Oise, Île-de-France, France métropolitaine, 95500, France",48.975398,2.494204181352458
+France,Paris Centre - La Madeleine,"IKEA, Boulevard de la Madeleine, Quartier Vendôme, Paris, Île-de-France, France métropolitaine, 75001, France",48.8693222,2.3257834
+France,Reims - Thillois,"IKEA, 1, Rue des Acacias, Champéa Shopping Center, Thillois, Reims, Marne, Grand Est, France métropolitaine, 51370, France",49.25803,3.963942
+France,Rennes - Pacé,"IKEA Rennes - Pacé, 14, Avenue des Touches, La Touche-Papail, Pacé, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35740, France",48.1374847,-1.7634654625391815
+France,Rouen (Tourville-la-Rivière),"IKEA, Avenue Gustave Picard, Centre commercial Tourville-la-Rivière, Tourville-la-Rivière, Rouen, Seine-Maritime, Normandie, France métropolitaine, 76410, France",49.332239,1.097049048780491
+France,Saint-Etienne,"IKEA, Rue Ferrer, Saint-Jean-Bonnefonds, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42000, France",45.44890925,4.419179440401315
+France,Strasbourg,"IKEA, Rue de l'Abattoir, Marché-Gare de Cronenbourg, Cronenbourg, Strasbourg, Bas-Rhin, Grand Est, France métropolitaine, 67300, France",48.6004526,7.730611156346638
+France,Toulon,"IKEA - retrait des marchandises, D 98, Lotissement Clos des Pins, La Valette-du-Var, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83160, France",43.1395735,6.008965459183673
+France,Roques sur Garonne,"IKEA Retrait marchandises, La Pyrénéenne, La Pointe, Roques, Muret, Haute-Garonne, Occitanie, France métropolitaine, 31120, France",43.511609899999996,1.3659133878139724
+France,Tours,"IKEA, Rue Désiré Lecomte, Cité Jolivet, Rochepinard, Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37550, France",47.3759939,0.7180565690451637
+Germany,Augsburg,"IKEA, 99, Otto-Hahn-Straße, Gersthofen, Landkreis Augsburg, Bayern, 86368, Deutschland",48.4049213,10.871253879856315
+Germany,Berlin-Lichtenberg,"IKEA Berlin-Lichtenberg, 364, Landsberger Allee, Lichtenberg, Berlin, 10365, Deutschland",52.53383755,13.514577508609015
+Germany,Berlin-Spandau,"IKEA Spandau, 10, Gewerbehof, Spandau, Berlin, 13597, Deutschland",52.5282459,13.214526778217138
+Germany,Berlin-Tempelhof,"IKEA Berlin-Tempelhof, 47, Sachsendamm, Schöneberg, Tempelhof-Schöneberg, Berlin, 10829, Deutschland",52.46961175,13.366341067536146
+Germany,Berlin-Waltersdorf,"IKEA Berlin-Waltersdorf, 8, Am Rondell, Fachmarktzentrum Waltersdorf, Siedlung Hubertus, Waltersdorf, Dahme-Spreewald, Brandenburg, 12529, Deutschland",52.366909199999995,13.555644614991262
+Germany,Bielefeld,"IKEA, Brackwede, Bielefeld, Nordrhein-Westfalen, 33647, Deutschland",51.98181775,8.49259802022072
+Germany,Braunschweig,"IKEA, 27, Hansestraße, Gewerbegebiet Hansestraße Ost, Veltenhof, Veltenhof-Rühme, Braunschweig, Niedersachsen, 38112, Deutschland",52.30887775,10.504470440687832
+Germany,Bremerhaven,"IKEA Bremerhaven, 1i, Weserstraße, Jedutenberg, Wulsdorf, Stadtbezirk Bremerhaven-Süd, Bremerhaven, Bremen, 27572, Deutschland",53.48925175,8.605635617667023
+Germany,Brinkum,"IKEA, Ernst-Abbe-Straße, Vogel Viertel, Brinkum, Stuhr, Landkreis Diepholz, Niedersachsen, 28816, Deutschland",53.0236642,8.7982344
+Germany,Chemnitz,"IKEA, 5, Im Neefepark, Neefe-Park, Stelzendorf, Chemnitz, Sachsen, 09116, Deutschland",50.802222349999994,12.859665495098245
+Germany,Dortmund,"IKEA, Mengede, Dortmund, Nordrhein-Westfalen, 44359, Deutschland",51.56288575,7.4261936707962715
+Germany,Dresden,"IKEA, 25, Peschelstraße, Kaditz, Trachau, Pieschen, Dresden, Sachsen, 01139, Deutschland",51.08663985,13.695074739292231
+Germany,Duisburg,"IKEA Duisburg, 80, Beecker Straße, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47166, Deutschland",51.482237,6.763883219488246
+Germany,Düsseldorf,"IKEA, Oerschbachstraße, Holthausen, Stadtbezirk 9, Düsseldorf, Nordrhein-Westfalen, 40591, Deutschland",51.1890803,6.8474146
+Germany,Erfurt,"IKEA, 50, Eisenacher Straße, Bindersleben, Erfurt, Thüringen, 99094, Deutschland",50.95948295,10.948946738853948
+Germany,Essen,"IKEA, 2, Altendorfer Straße, Krupp-Gürtel, Westviertel, Stadtbezirk I, Essen, Nordrhein-Westfalen, 45127, Deutschland",51.4600915,7.001008632367112
+Germany,Frankfurt,"IKEA, 7, Züricher Straße, Nieder-Eschbach, Frankfurt am Main, Hessen, 60437, Deutschland",50.1958275,8.6568717
+Germany,Freiburg,"IKEA, Hermann-Mitsch-Straße, Brühl-Industriegebiet, Brühl, Benzhausen, Baden-Württemberg, 79108, Deutschland",48.0284981,7.834821
+Germany,Großburgwedel,"IKEA Großburgwedel, 14, Isernhägener Straße, Burgwedel, Region Hannover, Niedersachsen, 30938, Deutschland",52.49238095,9.837792042290095
+Germany,Leipzig,"IKEA Abholstation ""Alte Messe"", 6, Dauthestraße, Reudnitz-Thonberg, Südost, Leipzig, Sachsen, 04317, Deutschland",51.3216636,12.4068885
+Germany,Hamburg-Altona,"IKEA Hamburg-Altona, 164, Große Bergstraße, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland",53.551352050000006,9.94165667444799
+Germany,Hamburg-Moorfleet,"IKEA / Bauhaus Moorfleet, Neue Feldhofe, Moorfleet, Hamburg, 22113, Deutschland",53.511459,10.094520055673446
+Germany,Hamburg-Schnelsen,"IKEA, 1, Wunderbrunnen, Schnelsen, Eimsbüttel, Hamburg, 22457, Deutschland",53.6488893,9.928075791381985
+Germany,Hanau,"IKEA, 21, Oderstraße, Lamboy, Hanau, Main-Kinzig-Kreis, Hessen, 63452, Deutschland",50.149668649999995,8.942291576715107
+Germany,Hannover,"IKEA Restaurant, 10, Straße der Nationen, Mittelfeld, Döhren-Wülfel, Hannover, Region Hannover, Niedersachsen, 30539, Deutschland",52.3139878,9.8161948
+Germany,Kaarst,"Kaarst IKEA, Nordkanal, Büttgen, Kaarst, Rhein-Kreis Neuss, Nordrhein-Westfalen, 41564, Deutschland",51.2169983,6.629705114904292
+Germany,Kaiserslautern,"IKEA, Vogelweh, Kaiserslautern, Rheinland-Pfalz, 67663, Deutschland",49.4415907,7.7006158
+Germany,Kamen,"IKEA, 1a, Kamen Karree, Südkamen, Kamen, Kreis Unna, Nordrhein-Westfalen, 59174, Deutschland",51.56947365,7.6691737074462365
+Germany,Kassel,"IKEA, 25, Heinrich-Hertz-Straße, Waldau, Kassel, Hessen, 34123, Deutschland",51.2778826,9.525668319920634
+Germany,Kiel,"IKEA Kiel, 1, Westring, Südfriedhof, Kiel, Schleswig-Holstein, 24114, Deutschland",54.314053599999994,10.107308768923598
+Germany,Koblenz,"IKEA, 1, An der Römervilla, Bubenheim, Koblenz, Rheinland-Pfalz, 56070, Deutschland",50.38218125,7.568111823869297
+Germany,Köln-Am Butzweilerhof,"IKEA, 51, Butzweilerstraße, Am Butzweilerhof, Ossendorf, Ehrenfeld, Köln, Nordrhein-Westfalen, 50829, Deutschland",50.98383,6.896453
+Germany,Köln-Godorf,"IKEA, 171, Godorfer Hauptstraße, Godorf, Rodenkirchen, Köln, Nordrhein-Westfalen, 50997, Deutschland",50.86166675,6.970950136292636
+Germany,Lübeck,"IKEA Restaurant, 79, Dänischburger Landstraße, Dänischburg / Siems / Rangenberg / Wallberg, Kücknitz, Lübeck, Schleswig-Holstein, 23569, Deutschland",53.9123343,10.7353102
+Germany,Ludwigsburg,"Ikea, 10, Heinkelstraße, Eglosheim, Ludwigsburg, Landkreis Ludwigsburg, Baden-Württemberg, 71634, Deutschland",48.9180653,9.1540918
+Germany,Magdeburg,"IKEA Magdeburg, Reihe A03, IKEA, Sülzegrund, Magdeburg, Sachsen-Anhalt, 39128, Deutschland",52.1680498,11.6121139
+Germany,Mannheim,"Ikea, Frankenthaler Straße, Scharhof, Sandhofen-Nord, Sandhofen, Mannheim, Baden-Württemberg, 68307, Deutschland",49.55608145,8.44550215525217
+Germany,München-Brunnthal,"IKEA München-Brunnthal, 1, Brunnthaler Straße, Am Birkengarten, Taufkirchen, Landkreis München, Bayern, 82024, Deutschland",48.040427,11.657710998213947
+Germany,München-Eching,"IKEA München-Eching, 14, Heisenbergstraße, Gut Hollern, Eching, Landkreis Freising, Bayern, 85386, Deutschland",48.304302899999996,11.63364836346154
+Germany,Fürth,"IKEA Restaurant, 110, Hans-Vogel-Straße, Ronhof, Fürth, Bayern, 90765, Deutschland",49.4851535,11.0093347
+Germany,Oldenburg,"IKEA, 89, Holler Landstraße, Neuenwege, Oldenburg, Niedersachsen, 26135, Deutschland",53.14000575,8.25492372653688
+Germany,Osnabrück,"IKEA, Rheiner Landstraße, Gewerbegebiet Hellern-Nord, Hellern, Osnabrück, Niedersachsen, 49078, Deutschland",52.2656517,7.969814
+Germany,Bestell- und Abholstation Ravensburg,"IKEA Bestell- & Abholstation, 5, Eywiesenstraße, In den Ziegelhöfen, Gewerbegebiet Kammerbrühl, Ravensburg, Verwaltungsverband Mittleres Schussental, Landkreis Ravensburg, Baden-Württemberg, 88212, Deutschland",47.7918301,9.618726619264809
+Germany,Regensburg,"IKEA, 7, Sulzfeldstraße, Gewerbegebiet Sulzfeldstraße, Kreuzhof, Harting, Bayern, 93055, Deutschland",49.001728299999996,12.177903461946471
+Germany,Rostock,"IKEA, 25, Messestraße, Evershagen Süd, Evershagen, Ortsbeirat 6 : Evershagen, Rostock, Mecklenburg-Vorpommern, 18069, Deutschland",54.1087845,12.05175149291085
+Germany,Saarlouis,"IKEA, 1, Im Hader, Lisdorf, Saarlouis, Landkreis Saarlouis, Saarland, 66740, Deutschland",49.294504,6.7586721
+Germany,Siegen,"IKEA Restaurant, 60, Wallhausenstraße, Gewerbepark Heidenberg, Siegen, Kreis Siegen-Wittgenstein, Nordrhein-Westfalen, 57072, Deutschland",50.862342749999996,8.002408503110154
+Germany,Sindelfingen,"IKEA, 2, Hanns-Martin-Schleyer-Straße, Sindelfingen (Stadt), Sindelfingen, Landkreis Böblingen, Baden-Württemberg, 71063, Deutschland",48.7018837,9.0053464
+Germany,Ulm,"IKEA, Beringerstraße, Michelsberg, Weststadt, Ulm, Baden-Württemberg, 89077, Deutschland",48.4040594,9.976917489107528
+Germany,Wallau,"IKEA, 2-4, Am Wandersmann, IKEA Homepark Wallau, Wallau, Hofheim am Taunus, Main-Taunus-Kreis, Hessen, 65719, Deutschland",50.05801825,8.371446554394897
+Germany,Walldorf,"IKEA, Josef-Reiert-Straße, Aussiedlerhöfe Leimengrube, Walldorf, Rhein-Neckar-Kreis, Baden-Württemberg, 69190, Deutschland",49.3053533,8.6303317
+Germany,Wetzlar,"IKEA, 13, Hermannsteiner Straße, Niedergirmes, Wetzlar, Lahn-Dill-Kreis, Hessen, 35576, Deutschland",50.56896385,8.497093257859762
+Germany,Wuppertal,"IKEA Restaurant, 81, Schmiedestraße, Gemarkung Nächstebreck, Wuppertal, Nordrhein-Westfalen, 42279, Deutschland",51.3099945,7.2545183
+Germany,Würzburg,"IKEA, 2, Mainfrankenhöhe, Versbach, Würzburg, Bayern, 97078, Deutschland",49.8222642,9.983571337749247
+Japan,Sendai,"IKEA仙台, あすと長町大通り線, 太白区, 仙台市, 宮城県, 982-0007, 日本 (Japan)",38.22546275,140.88620262263217
+Japan,Shinmisato,"IKEA新三郷, ２－２－２, 常磐自動車道, ピアラシティ 三郷, 三郷市, 341-0009, 日本 (Japan)",35.85622885,139.87022547953367
+Japan,Tachikawa,"IKEA立川, 芋窪街道, 泉町, 北3, 東京都, 立川市, 190-0014, 日本 (Japan)",35.7067433,139.41187051756782
+Japan,Tokyo-Bay,"IKEA Tokyo-Bay, 30, 東京湾岸道路, 宮本3-1, 船橋市, 千葉県, 273-0012, 日本 (Japan)",35.681915399999994,139.99207068746318
+Japan,Harajuku,"IKEA, ブラームスの小径, 原宿, 渋谷1, 東京都, 渋谷区, 1500001, 日本 (Japan)",35.6706461,139.703038
+Japan,Kohoku,"IKEA港北, 緑産業道路, 牛久保1, 都筑区, 神奈川県, 224-0043, 日本 (Japan)",35.522683,139.58998481999996
+Japan,Nagakute,"IKEA, 香流川緑地, 長久手市, 愛知県, 480-1121, 日本 (Japan)",35.176101,137.07533283155553
+Japan,Tsuruhama,"IKEA鶴浜, 鶴町二丁目, 大阪市, 大阪府, 日本 (Japan)",34.63701975,135.4497141099205
+Japan,Kobe,"IKEA神戸, 市民広場, 港島中町六丁目, 中央区, 神戸市, 兵庫県, 日本 (Japan)",34.6644203,135.2186329393861
+Japan,Fukuoka Shingu,"IKEA福岡新宮, 9-1, 小竹下府線, 中央駅前, 新宮町, 糟屋郡, 福岡県, 8110119, 日本 (Japan)",33.7096926,130.45019982524133
+Norway,Forus,"IKEA Forus, Grenseveien, Stokka, Sandnes, Rogaland, 4035, Norge",58.88747,5.723802
+Norway,Furuset,"IKEA Furuset, E 6, Kløfterhagen, Lindeberg, Alna, Oslo, 1081, Norge",59.93345815,10.871776881974423
+Norway,Leangen,"IKEA Leangen, Landbruksvegen, Tunga, Østbyen, Trondheim, Trøndelag, 7047, Norge",63.4282271,10.4737157
+Norway,Ringsaker,"IKEA Ringsaker, E 6, Furnes, Nydal, Ringsaker, Innlandet, 2320, Norge",60.8402518,11.0559769
+Norway,Slependen,"IKEA Slependen, Nesøyveien, Asker, Viken, 1376, Norge",59.876033,10.500408
+Norway,Sørlandet,"IKEA Sørlandet, Sydinga, Nordkjerr, Kristiansand, Agder, 4609, Norge",58.1886,8.1567
+Norway,Åsane,"IKEA Åsane, Åsamyrane, Nyborg, Åsane, Bergen, Vestland, 5130, Norge",60.47345,5.331207
+Singapore,Alexandra,"IKEA, 317, Alexandra Road, Bukit Merah, Singapore, Central, 159953, Singapore",1.288488,103.8059398
+Singapore,Tampines,"IKEA, 60, Tampines North Drive 2, Tampines, Northeast, 528764, Singapore",1.37406645,103.93239854406153
+Netherlands,Amersfoort,"IKEA, 101, Euroweg, bedrijventerrein Vathorst, Amersfoort, Utrecht, Nederland, 3825HB, Nederland",52.1853756,5.4174526
+Netherlands,Amsterdam,"IKEA, Hondsrugweg, Amstel III, Amsterdam, Noord-Holland, Nederland, 1101 DZ, Nederland",52.30233695,4.949406526659429
+Netherlands,Breda,"IKEA, 1, Kruisweide, Woonboulevard Breda, Breda, Noord-Brabant, Nederland, 4814RW, Nederland",51.5803115,4.7291248
+Netherlands,Delft,"IKEA Delft, 1, Olof Palmestraat, Delftse Hout, Delft, Zuid-Holland, Nederland, 2616LN, Nederland",52.0127665,4.3811469
+Netherlands,Duiven,"IKEA, Nieuwgraaf, Centerpoort-Nieuwgraaf, Duiven, Gelderland, Nederland, 6921EV, Nederland",51.9672488,5.9944322
+Netherlands,Eindhoven,"IKEA Eindhoven, 4089, Ekkersrijt, Son en Breugel, Noord-Brabant, Nederland, 5692DB, Nederland",51.4988544,5.4708184
+Netherlands,Groningen,"IKEA Groningen, 9, Sontweg, Eemskanaal, Zuid, Groningen, Nederland, 9723AT, Nederland",53.2170164,6.5885972
+Netherlands,Haarlem,"IKEA Haarlem, Swensweg, Waarder-en Veerpolder, Haarlem, Noord-Holland, Nederland, 2031GA, Nederland",52.3849057,4.66971
+Netherlands,Heerlen,"IKEA, 142, In de Cramer, Woonboulevard, Heerlen, Limburg, Nederland, 6412PM, Nederland",50.8993862,5.9451996
+Netherlands,Hengelo,"IKEA Hengelo, 100, Het Plein, Plein Westermaat, Hengelo, Overijssel, Nederland, 7559SR, Nederland",52.2887574,6.7678468
+Netherlands,Utrecht,"IKEA Utrecht, Columbuslaan, Meubelboulevard, Utrecht, Nederland, 3526EM, Nederland",52.06239395,5.099205589375906
+Netherlands,Zwolle,"IKEA, 3, Diepholtstraat, Hessenpoort, Zwolle, Overijssel, Nederland, 8028PN, Nederland",52.5322998,6.1626789
+Netherlands,Barendrecht,"Ikea Barendrecht, 1, Hamburg, Vaanpark, Barendrecht, Zuid-Holland, Nederland, 2993LG, Nederland",51.8497507,4.5128858
+Spain,Jerez,"Ikea, Ronda de la Aurora Boreal, San Juan de Dios, Jerez de la Frontera, Campiña de Jerez, Andalucía, 11404, España",36.6953542,-6.1604237
+Spain,Málaga,"IKEA, 389, Avenida de Velázquez, Churriana, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29004, España",36.6577695,-4.482296646526116
+Spain,Sevilla,"IKEA, Paseo El Valero, Castilleja de la Cuesta, Sevilla, Andalucía, 41910, España",37.383699050000004,-6.047199211046421
+Spain,Zaragoza,"Ikea, Calle Teatro Malibrán, Puerto Venecia, Parque Venecia, Zaragoza, Aragón, 50021, España",41.6087175,-0.8903703
+Spain,Asturias,"IKEA, Calle Paredes, Parque Principado, Les Folgueres, Siero, Asturias / Asturies, España",43.387876899999995,-5.805753467784788
+Spain,Valladolid,"IKEA, Calle del Comercio, Centro Comercial Río Shopping, La Flecha, Arroyo de la Encomienda, Valladolid, Castilla y León, 47195, España",41.62743615,-4.787987279511963
+Spain,Badalona,"IKEA, 7, carrer de Luxemburg, Montigalà, Badalona, Barcelonès, Barcelona, Catalunya, 08917, España",41.4592926,2.225413317031366
+Spain,Sabadell,"IKEA, C-58LD, Sabadell, Vallès Occidental, Barcelona, Catalunya, 08214, España",41.51018785,2.1066743095023535
+Spain,A Coruña,"Ikea, Centro Comercial Marineda City, A Grela, San Cristovo das Viñas, A Coruña, Galicia / Galiza, 15008, España",43.3452306,-8.4307041
+Spain,Alcorcón,"Ikea, 1, Carretera de San Martín, Norte, Alcorcón, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28922, España",40.35061734999999,-3.856057240427564
+Spain,Ensanche de Vallecas,"IKEA, 33, Calle del Alto del Retiro, Ensanche de Vallecas, Villa de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28051, España",40.3695149,-3.5956547776584076
+Spain,San Sebastián de los Reyes,"IKEA. Entrega de Mercancías, Avenida Matapiñoneras, Zona Industrial Sur, Dehesa Boyal, San Sebastián de los Reyes, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28703, España",40.548062650000006,-3.6173253871287696
+Spain,Murcia,"Ikea, Avenida Princesa Doña Letizia, Churra, Pedanía de Churra, Murcia, Región de Murcia, 30110, España",38.0296724,-1.14432
+Spain,Valencia,"IKEA, 12, CV-412, Alquería de Soria, Massanassa, l'Horta Sud, València / Valencia, Comunitat Valenciana, 46910, España",39.4149026,-0.38747650630524444
+Spain,Barakaldo,"IKEA, Avenida La Ribera, Centro Comercial Megapark Barakaldo, Barakaldo, Bilboaldea, Bizkaia, Euskadi, 48902, España",43.2914971,-3.006871851498368
+Spain,L'Hospitalet,"IKEA, 115-134, Avinguda de la Gran Via de l'Hospitalet, el Gornal, Districte VI, l'Hospitalet de Llobregat, Barcelonès, Barcelona, Catalunya, 08908, España",41.3547218,2.1238503100820507
+Spain,Goya,"IKEA, 47, Calle de Goya, Recoletos, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4252733,-3.6823529
+Spain,Serrano,"IKEA, 55, Calle de Serrano, Castellana, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28006, España",40.4316441,-3.6870066

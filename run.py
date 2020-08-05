@@ -6,10 +6,12 @@ import pycountry
 import termcolor
 
 
+# We first load store-names.json, which is a list of store names within each country
 with open('store-names.json') as f:
     store_names = json.load(f)
 
 
+# We load the existing stores in order to skip them when we encounter them in store-names.json
 with open('stores.csv') as f:
     cache = {
         (store['country'], store['name']): store
@@ -60,6 +62,7 @@ with open('stores.csv', 'w') as f:
         print(f'{country}: {len(names)}')
 
 
+# Now we create stores.geojson, which is the GeoJSON equivalent of stores.csv
 with open('stores.csv') as f:
     stores = list(csv.DictReader(f))
 

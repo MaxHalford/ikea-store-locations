@@ -11,6 +11,14 @@
         "Logan",
         "North Lakes"
     ],
+    "Belgium": [
+        "Anderlecht",
+        "Arlon",
+        "Gent",
+        "Hasselt",
+        "Liege",
+        "Mons"
+    ],
     "Canada": [
         "Calgary",
         "Edmonton",
@@ -127,7 +135,7 @@
         "Würzburg"
     ],
     "Iceland": [
-        "Reykjavik"
+        "Gardabaer"
     ],
     "Japan": [
         "Sendai",
@@ -140,6 +148,10 @@
         "Tsuruhama",
         "Kobe",
         "Fukuoka Shingu"
+    ],
+    "Kuwait": [
+        "Kuwait",
+        "IKEA 360"
     ],
     "Netherlands": [
         "Amersfoort",
@@ -186,7 +198,7 @@
         "Goya",
         "Serrano",
         "Murcia",
-        "Punto de Recogida",
+        "Santander",
         "Valencia",
         "Barakaldo"
     ]

@@ -58,9 +58,6 @@ with open('stores.csv', 'w') as f:
             })
             print(termcolor.colored(f'{country.name} - {name}', 'green'))
 
-    for country, names in store_names.items():
-        print(f'{country}: {len(names)}')
-
 
 # Now we create stores.geojson, which is the GeoJSON equivalent of stores.csv
 with open('stores.csv') as f:

@@ -28,7 +28,7 @@ with open('stores.csv') as f:
         for country, stores in itertools.groupby(stores, lambda x: x['country'])
     })
 
-for country in set(expected) | set(collected):
+for country in sorted(set(expected) | set(collected)):
 
     if expected[country] > collected[country]:
         print(f'- [ ] {country} ({expected[country] - collected[country]} missing)')

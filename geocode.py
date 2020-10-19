@@ -39,7 +39,6 @@ with open('stores.csv', 'w') as f:
 
             # Skip the store if it's in the cache
             if (country.name, name) in cache:
-                print(termcolor.colored(f'{country.name} - {name}', 'green'))
                 continue
 
             address = f'Ikea {name}'

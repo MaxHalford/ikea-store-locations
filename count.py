@@ -3,6 +3,7 @@ import csv
 import itertools
 
 import bs4
+import haversine
 import requests
 
 # Scrape the number of stores per country from Wikipedia
@@ -27,6 +28,17 @@ with open('stores.csv') as f:
         country: len(list(stores))
         for country, stores in itertools.groupby(stores, lambda x: x['country'])
     })
+    duplicates = {
+        country: sum(
+            1
+            for s1, s2 in itertools.combinations(stores, 2)
+            if .1 > haversine.haversine(
+                (float(s1['latitude']), float(s1['longitude'])),
+                (float(s2['latitude']), float(s2['longitude']))
+            )
+        )
+        for country, stores in itertools.groupby(stores, lambda x: x['country'])
+    }
 
 for country in sorted(set(expected) | set(collected)):
 
@@ -35,6 +47,9 @@ for country in sorted(set(expected) | set(collected)):
 
     elif collected[country] > expected[country]:
         print(f'- [ ] {country} ({collected[country] - expected[country]} too many)')
+
+    elif duplicates[country]:
+        print(f'- [ ] {country} ({duplicates[country]} duplicates)')
 
     else:
         print(f'- [x] {country}')

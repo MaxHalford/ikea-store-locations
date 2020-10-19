@@ -1,5 +1,6 @@
 bs4
 geopy
+haversine
 pycountry
 requests
 termcolor
